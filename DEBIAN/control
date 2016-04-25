@@ -1,0 +1,10 @@
+Package: gopro
+Section: science
+Priority: optional
+Maintainer: Ed Baker <edwbaker@gmail.com>
+Architecture: all
+Depends: php7.0-cli
+Description: Camera control
+ Command line tool for controlling GoPro cameras
+Version: 0.1
+Installed-Size: 44 
