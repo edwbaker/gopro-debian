@@ -6,5 +6,5 @@ Architecture: all
 Depends: php5-cli
 Description: Camera control
  Command line tool for controlling GoPro cameras
-Version: 0.1
+Version: 0.1vivid1
 Installed-Size: 44 
